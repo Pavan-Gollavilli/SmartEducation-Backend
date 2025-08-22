@@ -1,0 +1,55 @@
+{
+  "courses": [
+    {
+      "courseName": "AI & ML",
+      "videos": [
+        {
+          "title": "Introduction to AI & ML",
+          "url": "https://www.youtube.com/watch?v=aircAruvnKk"
+        },
+        {
+          "title": "Supervised vs Unsupervised Learning",
+          "url": "https://www.youtube.com/watch?v=Gv9_4yMHFhI"
+        },
+        {
+          "title": "Neural Networks Basics",
+          "url": "https://www.youtube.com/watch?v=aircAruvnKk"
+        }
+      ]
+    },
+    {
+      "courseName": "JavaScript",
+      "videos": [
+        {
+          "title": "JavaScript Fundamentals",
+          "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
+        },
+        {
+          "title": "JavaScript ES6 Features",
+          "url": "https://www.youtube.com/watch?v=NCwa_xi0Uuc"
+        },
+        {
+          "title": "Async JS & Promises",
+          "url": "https://www.youtube.com/watch?v=PoRJizFvM7s"
+        }
+      ]
+    },
+    {
+      "courseName": "React JS",
+      "videos": [
+        {
+          "title": "React JS Crash Course",
+          "url": "https://www.youtube.com/watch?v=w7ejDZ8SWv8"
+        },
+        {
+          "title": "React Hooks Explained",
+          "url": "https://www.youtube.com/watch?v=f687hBjwFcM"
+        },
+        {
+          "title": "React Router Tutorial",
+          "url": "https://www.youtube.com/watch?v=Law7wfdg_ls"
+        }
+      ]
+    }
+  ]
+}
